@@ -3,7 +3,7 @@
 <p align="center"><b>Full Stack Developer · React.js | NestJS | Node.js · Chennai, India</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%40+Yoho+Technologies;React.js+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Microservices+%7C+Kafka+%7C+gRPC+%7C+Redis;Shipping+production+features+end+to+end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Microservices+%7C+Kafka+%7C+gRPC+%7C+Redis;Shipping+production+features+end+to+end" alt="Typing SVG" />
 </p>
 
 ---
@@ -93,12 +93,7 @@ Delivery app with role-based access for **riders, customers & admins** — WebSo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh866&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh866&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh866&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh866&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true" alt="streak" />
 </p>
 
 ---
@@ -109,8 +104,4 @@ Delivery app with role-based access for **riders, customers & admins** — WebSo
   <a href="mailto:adarsh24as26@gmail.com">
     <img src="https://img.shields.io/badge/Email-adarsh24as26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adarsh866&style=for-the-badge&color=58A6FF" alt="profile views" />
 </p>
